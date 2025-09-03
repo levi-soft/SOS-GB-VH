@@ -21,7 +21,7 @@ Quá trình cài đặt cực kỳ đơn giản với công cụ tự động đ
 
 **Bước 1: Tải về bộ cài đặt**
 
-- Tải về tệp `SOS-GB-VH.zip` từ [link tải của bạn](https://github.com/levi-soft/SOS-GB-VH/releases).
+- Tải về tệp `SOS-GB-VH.zip` từ  [link tải này](https://github.com/levi-soft/SOS-GB-VH/releases).
 
 **Bước 2: Sao chép công cụ vào thư mục game**
 
