@@ -17,6 +17,9 @@ Bấm Restore để khôi phục lại ngôn ngữ tiếng anh
 
 Chú ý: mod này hỗ trợ phiên bản Steam v1.0.3
 
+# English instructions:
+Download file: [Here](https://github.com/levi-soft/SOS-FoMT-VH/releases/)
+
 Windows (steam):
 
 Unzip all files and copy them to the SOS:GB game folder
