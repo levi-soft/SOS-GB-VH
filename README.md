@@ -67,4 +67,6 @@ Nếu bạn muốn trở lại phiên bản Tiếng Anh gốc, công cụ cũng 
 
 Dự án được thực hiện bởi **Levi** với rất nhiều tâm huyết. Nếu bạn yêu thích bản dịch này, hãy cân nhắc ủng hộ để tác giả có thêm động lực cho các dự án trong tương lai.
 
+- **Thông tin liên hệ/Donate:** [Thêm thông tin của bạn vào đây]
+
 Chúc các bạn có những giờ phút chơi game vui vẻ!
