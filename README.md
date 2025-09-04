@@ -65,8 +65,10 @@ Nếu bạn muốn trở lại phiên bản Tiếng Anh gốc, công cụ cũng 
 
 ## VI. Liên hệ và Ủng hộ
 
-Dự án được thực hiện bởi **Levi** với rất nhiều tâm huyết. Nếu bạn yêu thích bản dịch này, hãy cân nhắc ủng hộ để tác giả có thêm động lực cho các dự án trong tương lai.
+Dự án được thực hiện bởi Levi với rất nhiều tâm huyết. Nếu bạn yêu thích bản dịch này, hãy cân nhắc ủng hộ một ly cà phê để tác giả có thêm động lực cho các dự án trong tương lai.
 
-- **Thông tin liên hệ/Donate:** [Thêm thông tin của bạn vào đây]
+- **Ủng hộ mình ly cà phê:**
+  
+![QR code](https://github.com/user-attachments/assets/7ec46ec6-2f32-479e-b02c-c362698cfdda)
 
 Chúc các bạn có những giờ phút chơi game vui vẻ!
